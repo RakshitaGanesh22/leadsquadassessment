@@ -1,6 +1,6 @@
 # Cat Image Gallery-leadsquadintern
 
-This project fetches cat images from the [API](https://api.thecatapi.com/v1/images/search) and displays them in a card layout. The project consists of three difficulty levels: Easy, Medium, and Hard, each adding more complexity to the functionality..
+This project fetches cat images from the [API](https://api.thecatapi.com/v1/images/search) and displays them in a card layout. The project consists of three difficulty levels: Easy, Medium, and Hard, each adding more complexity to the functionality.
 
 ## Technologies Used
 
